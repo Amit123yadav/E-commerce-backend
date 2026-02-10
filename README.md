@@ -35,7 +35,7 @@ dotenv
 
 📦 Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/nodejs-ecommerce-backend.git
+git clone https://github.com/Amit123yadav/nodejs-ecommerce-backend.git
 cd nodejs-ecommerce-backend
 
 2️⃣ Install dependencies
